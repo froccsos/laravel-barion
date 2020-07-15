@@ -1,6 +1,6 @@
 {
-  "name": "laravelhungary/laravel-barion",
-  "description": "Simple Laravel wrapper for the API of the Barion online payment system",
+  "name": "froccsos/laravel-barion",
+  "description": "Simple Laravel wrapper for the API of the Barion online payment system. Forked by froccsos.",
   "license": "MIT",
   "authors": [
     {
@@ -12,7 +12,7 @@
   "minimum-stability": "stable",
   "require": {
     "php": ">=5.6.0",
-    "guzzlehttp/guzzle": "^6.2",
+    "guzzlehttp/guzzle": "^7.0",
     "illuminate/support": ">=5.1"
   },
   "autoload": {
