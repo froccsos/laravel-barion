@@ -9,7 +9,7 @@ Forked from laravelhungary/laravel-barion.
 
 1. Install the package using composer: 
 
-`composer require laravelhungary/laravel-barion`
+`composer require froccsos/laravel-barion`
 
 **If you're using Laravel 5.5, you're done, the following steps are being done automatically.**
 
